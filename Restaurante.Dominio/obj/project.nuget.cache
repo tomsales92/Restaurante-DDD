@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0tIzfsFQ5n+ixcbhve6dfhIEqW1k5UYIG/1wUEyO678MppRHFeo/tRC4qIvX5ZUj9e5xP86roNnzV3Aq98S6DQ==",
+  "dgSpecHash": "KoOC9cI8W/ehj8/PwWG9ZfM+JPDb5qV0qjtVd0R2lEcUNloldrx3ceWOL0oBo7zpSEaqJFqhJT9FmSALPzjnDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Dominio\\Restaurante.Dominio.csproj",
+  "projectFilePath": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Dominio\\Restaurante.Dominio.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\esales\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\esales\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

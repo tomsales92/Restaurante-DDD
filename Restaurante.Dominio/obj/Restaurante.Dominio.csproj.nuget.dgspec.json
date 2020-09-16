@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Dominio\\Restaurante.Dominio.csproj": {}
+    "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Dominio\\Restaurante.Dominio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Dominio\\Restaurante.Dominio.csproj": {
+    "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Dominio\\Restaurante.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Dominio\\Restaurante.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Dominio\\Restaurante.Dominio.csproj",
         "projectName": "Restaurante.Dominio",
-        "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Dominio\\Restaurante.Dominio.csproj",
+        "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Dominio\\Restaurante.Dominio.csproj",
         "packagesPath": "C:\\Users\\esales\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\esales\\AppData\\Roaming\\NuGet\\NuGet.Config",

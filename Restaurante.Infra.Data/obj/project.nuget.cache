@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jBKhnWSCKTg9CeIIRa+DHOOgicXiiDh8qgY+5vKjY4FePDqkSRAc29TW8P5Xlm9d01GAkZC4kc453XY3VSnlZA==",
+  "dgSpecHash": "dXTawyEgD/obroypTBnNmRMxLpRtd1XooRRjTP26ws4R1i8PwfLZzsSAs4C6D8pGvavyxCOmU/g42VXo5ZNXiw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Infra.Data\\Restaurante.Infra.Data.csproj",
+  "projectFilePath": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Infra.Data\\Restaurante.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\esales\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\esales\\.nuget\\packages\\microsoft.entityframeworkcore\\2.1.0\\microsoft.entityframeworkcore.2.1.0.nupkg.sha512",

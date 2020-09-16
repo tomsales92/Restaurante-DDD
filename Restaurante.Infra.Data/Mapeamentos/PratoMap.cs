@@ -15,6 +15,7 @@ namespace Restaurante.Infra.Data.Mapeamentos
             builder.ToTable("prato");
             builder.Property(c => c.Nome).IsRequired().HasColumnName("Nome").HasMaxLength(100);
             builder.Property(c => c.Preco).IsRequired().HasColumnName("Preco");
+            builder.Property(c => c.Tamanho).IsRequired().HasColumnName("Tamanho");
         }
     }
 }

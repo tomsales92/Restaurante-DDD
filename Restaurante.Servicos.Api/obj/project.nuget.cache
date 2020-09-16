@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OZPMN6w6qTuhavBfEgDMLR3LDiDPmgsmSbC79c8zz5ontzNe6Ebk4AogUBZl5KJuoaiz6GC03FfcNZvNY2bDow==",
+  "dgSpecHash": "2iS235G0nKU4lIcar3bm11JiKdbU+4O0SJcSLW/vyp0nNTCSnP9p71+BnT5MOmUUsEdZFz9ag1c2JPETTb6XWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Servicos.Api\\Restaurante.Servicos.Api.csproj",
+  "projectFilePath": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Servicos.Api\\Restaurante.Servicos.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\esales\\.nuget\\packages\\automapper\\6.1.1\\automapper.6.1.1.nupkg.sha512",
     "C:\\Users\\esales\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\3.2.0\\automapper.extensions.microsoft.dependencyinjection.3.2.0.nupkg.sha512",

@@ -12318,11 +12318,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Servicos.Api\\Restaurante.Servicos.Api.csproj",
+      "projectUniqueName": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Servicos.Api\\Restaurante.Servicos.Api.csproj",
       "projectName": "Restaurante.Servicos.Api",
-      "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Servicos.Api\\Restaurante.Servicos.Api.csproj",
+      "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Servicos.Api\\Restaurante.Servicos.Api.csproj",
       "packagesPath": "C:\\Users\\esales\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Servicos.Api\\obj\\",
+      "outputPath": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Servicos.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\esales\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -12338,11 +12338,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Aplicacao\\Restaurante.Aplicacao.csproj": {
-              "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Aplicacao\\Restaurante.Aplicacao.csproj"
+            "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Aplicacao\\Restaurante.Aplicacao.csproj": {
+              "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Aplicacao\\Restaurante.Aplicacao.csproj"
             },
-            "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Infra.IoC\\Restaurante.Infra.IoC.csproj": {
-              "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Infra.IoC\\Restaurante.Infra.IoC.csproj"
+            "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Infra.IoC\\Restaurante.Infra.IoC.csproj": {
+              "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Infra.IoC\\Restaurante.Infra.IoC.csproj"
             }
           }
         }

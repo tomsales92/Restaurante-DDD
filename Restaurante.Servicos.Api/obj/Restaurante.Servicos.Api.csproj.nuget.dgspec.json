@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Servicos.Api\\Restaurante.Servicos.Api.csproj": {}
+    "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Servicos.Api\\Restaurante.Servicos.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Aplicacao\\Restaurante.Aplicacao.csproj": {
+    "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Aplicacao\\Restaurante.Aplicacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Aplicacao\\Restaurante.Aplicacao.csproj",
+        "projectUniqueName": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Aplicacao\\Restaurante.Aplicacao.csproj",
         "projectName": "Restaurante.Aplicacao",
-        "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Aplicacao\\Restaurante.Aplicacao.csproj",
+        "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Aplicacao\\Restaurante.Aplicacao.csproj",
         "packagesPath": "C:\\Users\\esales\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Aplicacao\\obj\\",
+        "outputPath": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Aplicacao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\esales\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Dominio\\Restaurante.Dominio.csproj": {
-                "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Dominio\\Restaurante.Dominio.csproj"
+              "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Dominio\\Restaurante.Dominio.csproj": {
+                "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Dominio\\Restaurante.Dominio.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Dominio\\Restaurante.Dominio.csproj": {
+    "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Dominio\\Restaurante.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Dominio\\Restaurante.Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Dominio\\Restaurante.Dominio.csproj",
         "projectName": "Restaurante.Dominio",
-        "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Dominio\\Restaurante.Dominio.csproj",
+        "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Dominio\\Restaurante.Dominio.csproj",
         "packagesPath": "C:\\Users\\esales\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Dominio\\obj\\",
+        "outputPath": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\esales\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -122,14 +122,14 @@
         }
       }
     },
-    "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Infra.Data\\Restaurante.Infra.Data.csproj": {
+    "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Infra.Data\\Restaurante.Infra.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Infra.Data\\Restaurante.Infra.Data.csproj",
+        "projectUniqueName": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Infra.Data\\Restaurante.Infra.Data.csproj",
         "projectName": "Restaurante.Infra.Data",
-        "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Infra.Data\\Restaurante.Infra.Data.csproj",
+        "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Infra.Data\\Restaurante.Infra.Data.csproj",
         "packagesPath": "C:\\Users\\esales\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Infra.Data\\obj\\",
+        "outputPath": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Infra.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\esales\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -145,8 +145,8 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Dominio\\Restaurante.Dominio.csproj": {
-                "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Dominio\\Restaurante.Dominio.csproj"
+              "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Dominio\\Restaurante.Dominio.csproj": {
+                "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Dominio\\Restaurante.Dominio.csproj"
               }
             }
           }
@@ -199,14 +199,14 @@
         }
       }
     },
-    "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Infra.IoC\\Restaurante.Infra.IoC.csproj": {
+    "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Infra.IoC\\Restaurante.Infra.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Infra.IoC\\Restaurante.Infra.IoC.csproj",
+        "projectUniqueName": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Infra.IoC\\Restaurante.Infra.IoC.csproj",
         "projectName": "Restaurante.Infra.IoC",
-        "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Infra.IoC\\Restaurante.Infra.IoC.csproj",
+        "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Infra.IoC\\Restaurante.Infra.IoC.csproj",
         "packagesPath": "C:\\Users\\esales\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Infra.IoC\\obj\\",
+        "outputPath": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Infra.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\esales\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -222,14 +222,14 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Aplicacao\\Restaurante.Aplicacao.csproj": {
-                "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Aplicacao\\Restaurante.Aplicacao.csproj"
+              "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Aplicacao\\Restaurante.Aplicacao.csproj": {
+                "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Aplicacao\\Restaurante.Aplicacao.csproj"
               },
-              "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Dominio\\Restaurante.Dominio.csproj": {
-                "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Dominio\\Restaurante.Dominio.csproj"
+              "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Dominio\\Restaurante.Dominio.csproj": {
+                "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Dominio\\Restaurante.Dominio.csproj"
               },
-              "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Infra.Data\\Restaurante.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Infra.Data\\Restaurante.Infra.Data.csproj"
+              "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Infra.Data\\Restaurante.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Infra.Data\\Restaurante.Infra.Data.csproj"
               }
             }
           }
@@ -268,14 +268,14 @@
         }
       }
     },
-    "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Servicos.Api\\Restaurante.Servicos.Api.csproj": {
+    "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Servicos.Api\\Restaurante.Servicos.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Servicos.Api\\Restaurante.Servicos.Api.csproj",
+        "projectUniqueName": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Servicos.Api\\Restaurante.Servicos.Api.csproj",
         "projectName": "Restaurante.Servicos.Api",
-        "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Servicos.Api\\Restaurante.Servicos.Api.csproj",
+        "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Servicos.Api\\Restaurante.Servicos.Api.csproj",
         "packagesPath": "C:\\Users\\esales\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Servicos.Api\\obj\\",
+        "outputPath": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Servicos.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\esales\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -291,11 +291,11 @@
         "frameworks": {
           "netcoreapp2.1": {
             "projectReferences": {
-              "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Aplicacao\\Restaurante.Aplicacao.csproj": {
-                "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Aplicacao\\Restaurante.Aplicacao.csproj"
+              "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Aplicacao\\Restaurante.Aplicacao.csproj": {
+                "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Aplicacao\\Restaurante.Aplicacao.csproj"
               },
-              "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Infra.IoC\\Restaurante.Infra.IoC.csproj": {
-                "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Infra.IoC\\Restaurante.Infra.IoC.csproj"
+              "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Infra.IoC\\Restaurante.Infra.IoC.csproj": {
+                "projectPath": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Infra.IoC\\Restaurante.Infra.IoC.csproj"
               }
             }
           }

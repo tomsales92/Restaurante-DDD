@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "977xtFEqH3F1b4/nvgxSwOizeoQicSJw3SM7oiqYoikGO1mfCo4Admn1a94IoSbkUgYqXMN93OiATL8vsXXmag==",
+  "dgSpecHash": "BLzywsjnmocoPo21jBlS6IXx+XzHDOzruudnh9CUpqNGq1qr3NyVqIbwCRDgwvOyBcH4wTtUKo0jwDfX0NDOUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\esales\\source\\repos\\Restaurante\\Restaurante.Infra.IoC\\Restaurante.Infra.IoC.csproj",
+  "projectFilePath": "C:\\Users\\esales\\source\\repos\\Restaurante-DDD\\Restaurante.Infra.IoC\\Restaurante.Infra.IoC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\esales\\.nuget\\packages\\automapper\\6.1.1\\automapper.6.1.1.nupkg.sha512",
     "C:\\Users\\esales\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\3.2.0\\automapper.extensions.microsoft.dependencyinjection.3.2.0.nupkg.sha512",
