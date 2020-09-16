@@ -1,0 +1,9 @@
+C:\Users\esales\source\repos\Restaurante\Restaurante.Dominio\bin\Debug\netcoreapp2.1\Restaurante.Dominio.deps.json
+C:\Users\esales\source\repos\Restaurante\Restaurante.Dominio\bin\Debug\netcoreapp2.1\Restaurante.Dominio.dll
+C:\Users\esales\source\repos\Restaurante\Restaurante.Dominio\bin\Debug\netcoreapp2.1\Restaurante.Dominio.pdb
+C:\Users\esales\source\repos\Restaurante\Restaurante.Dominio\obj\Debug\netcoreapp2.1\Restaurante.Dominio.csprojAssemblyReference.cache
+C:\Users\esales\source\repos\Restaurante\Restaurante.Dominio\obj\Debug\netcoreapp2.1\Restaurante.Dominio.AssemblyInfoInputs.cache
+C:\Users\esales\source\repos\Restaurante\Restaurante.Dominio\obj\Debug\netcoreapp2.1\Restaurante.Dominio.AssemblyInfo.cs
+C:\Users\esales\source\repos\Restaurante\Restaurante.Dominio\obj\Debug\netcoreapp2.1\Restaurante.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\esales\source\repos\Restaurante\Restaurante.Dominio\obj\Debug\netcoreapp2.1\Restaurante.Dominio.dll
+C:\Users\esales\source\repos\Restaurante\Restaurante.Dominio\obj\Debug\netcoreapp2.1\Restaurante.Dominio.pdb
